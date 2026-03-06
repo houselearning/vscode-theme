@@ -1,4 +1,4 @@
-# HouseLearning Theme
+# HouseLearning Theme 
 
 A clean, modern **blue & yellow** Visual Studio Code theme designed for clarity, focus, and a beautiful workspace.
 
