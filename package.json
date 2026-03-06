@@ -1,8 +1,8 @@
 {
   "name": "houselearning-theme",
   "displayName": "HouseLearning.org Theme",
-  "description": "A clean blue & yellow theme with blue headers and a soft yellow body background.",
-  "version": "1.0.0",
+  "description": "Blue & yellow VS Code theme with light and dark modes.",
+  "version": "1.1.0",
   "publisher": "houselearning",
   "repository": {
     "type": "git",
@@ -18,6 +18,11 @@
         "label": "HouseLearning Theme",
         "uiTheme": "vs",
         "path": "./themes/houselearning-color-theme.json"
+      },
+      {
+        "label": "HouseLearning Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/houselearning-dark-color-theme.json"
       }
     ]
   }
