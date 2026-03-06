@@ -3,7 +3,7 @@
   "displayName": "HouseLearning.org Theme",
   "description": "Blue & yellow VS Code theme with light and dark modes.",
   "version": "1.1.0",
-  "publisher": "houselearning",
+  "publisher": "HouseLearningorg",
   "repository": {
     "type": "git",
     "url": "https://github.com/houselearning/vscode-theme"
