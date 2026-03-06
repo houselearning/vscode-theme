@@ -18,7 +18,7 @@
         "label": "HouseLearning Theme",
         "uiTheme": "vs",
         "path": "./themes/houselearning-color-theme.json"
-      },
+      }, 
       {
         "label": "HouseLearning Dark Theme",
         "uiTheme": "vs-dark",
