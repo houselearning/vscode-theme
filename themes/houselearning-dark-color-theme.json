@@ -1,0 +1,68 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "name": "HouseLearning Dark",
+  "colors": {
+    "editor.background": "#0D0F12",
+    "editor.foreground": "#E8E8E8",
+
+    "editorLineNumber.foreground": "#5A5A5A",
+    "editorLineNumber.activeForeground": "#FFD500",
+
+    "editorCursor.foreground": "#4DA3FF",
+
+    "editor.selectionBackground": "#003B8E88",
+    "editor.inactiveSelectionBackground": "#003B8E44",
+
+    "editor.lineHighlightBackground": "#1A1D22",
+
+    "sideBar.background": "#0F1216",
+    "sideBar.foreground": "#C7D7FF",
+    "sideBarSectionHeader.background": "#003B8E",
+    "sideBarSectionHeader.foreground": "#FFFFFF",
+
+    "activityBar.background": "#002B6B",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBar.activeBorder": "#FFD500",
+
+    "titleBar.activeBackground": "#002B6B",
+    "titleBar.activeForeground": "#FFFFFF",
+
+    "statusBar.background": "#002B6B",
+    "statusBar.foreground": "#FFFFFF",
+
+    "tab.activeBackground": "#0D0F12",
+    "tab.activeForeground": "#4DA3FF",
+    "tab.inactiveBackground": "#1A1D22",
+    "tab.inactiveForeground": "#A0A0A0",
+
+    "editorGroupHeader.tabsBackground": "#0F1216",
+
+    "button.background": "#003B8E",
+    "button.foreground": "#FFFFFF",
+    "button.hoverBackground": "#0050C7"
+  },
+
+  "tokenColors": [
+    {
+      "scope": ["keyword"],
+      "settings": { "foreground": "#4DA3FF", "fontStyle": "bold" }
+    },
+    {
+      "scope": ["string"],
+      "settings": { "foreground": "#FFD500" }
+    },
+    {
+      "scope": ["variable"],
+      "settings": { "foreground": "#7BB3FF" }
+    },
+    {
+      "scope": ["function"],
+      "settings": { "foreground": "#4DA3FF", "fontStyle": "bold" }
+    },
+    {
+      "scope": ["comment"],
+      "settings": { "foreground": "#6A6A6A", "fontStyle": "italic" }
+    }
+  ]
+}
