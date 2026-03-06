@@ -4,6 +4,7 @@
   "description": "Blue & yellow VS Code theme with light and dark modes.",
   "version": "1.0.3",
   "publisher": "HouseLearningorg",
+  "icon": "icon.png",
   "keywords": [
   "theme",
   "color-theme",
