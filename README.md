@@ -7,6 +7,8 @@ A clean, modern **blue & yellow** Visual Studio Code theme designed for clarity,
 ✨ **High contrast, readable, elegant**
 
 ---
+## Preview
+<img src="preview.png" alt="Preview">
 
 ## 📦 Installation
 
