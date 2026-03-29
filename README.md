@@ -9,7 +9,7 @@ A clean, modern **blue & yellow** Visual Studio Code theme designed for clarity,
 ---
 ## Preview
 ### Dark
-<img src="https://github.com/houselearning/vscode-theme/blob/main/preview.png" alt="Preview">
+<img src="https://raw.githubusercontent.com/houselearning/vscode-theme/main/preview.png" alt="Preview">
 <br>
 
 ### Light
